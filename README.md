@@ -1,4 +1,4 @@
-# GroveGoods
+# GroveGoods 🌲
 
 GroveGoods - Your Root to a Greener Tomorrow
 
